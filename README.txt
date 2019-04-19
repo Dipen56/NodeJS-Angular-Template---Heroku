@@ -8,3 +8,6 @@ Modules used in this template.
 To run the app
 1. pm2 start app.js -i max --watch -f This will run the app using PM2 in a cluster i.e using all the CPU's. This run the app as hot loaded so you won't have to restart the server just refreash the page to see changes. 
 2. navigate to localhost:8888
+
+Online site can be found at
+https://nodejs-anglar-heroku-template.herokuapp.com/
